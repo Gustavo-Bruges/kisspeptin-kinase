@@ -17,15 +17,18 @@
 | igraph | 2.3.3 |
 | openalexR | 3.1.2 |
 
-**Pendiente:** `renv` todavía no está inicializado. Antes de la etiqueta `v1.0-analisis`:
+Las versiones exactas de los 236 paquetes están en `renv.lock` (renv 1.3.1, Bioconductor 3.23). Para reproducir el entorno, en un clon nuevo:
 
 ```r
 install.packages("renv")
-renv::init(bare = TRUE)
-renv::snapshot()          # writes renv.lock with every package version; commit it
+renv::restore()           # installs the exact versions from renv.lock into the project library
 ```
 
-Quien clone el repositorio después corre `renv::restore()`.
+- `decoupleR` 2.17.0 viene de `bioc.r-universe.dev` (versión de desarrollo de Bioconductor). `renv::restore()` la busca ahí.
+- `pd.moex.1.0.st.v1` lo carga `oligo::read.celfiles()` por nombre. Está declarado en `07a` para que renv lo registre.
+- Después de instalar o actualizar paquetes: `renv::snapshot()` y hacer *commit* de `renv.lock`.
+- Verificado el 2026-10-20: `08` corrido dentro de renv reproduce todas las tablas de `output/` sin diferencias (la figura PDF sólo cambia la fecha incrustada).
+
 
 ## 2. Solvers externos
 

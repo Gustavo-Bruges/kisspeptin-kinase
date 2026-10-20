@@ -48,7 +48,7 @@ kisspeptin-kinase/
 
 ## Requisitos
 
-- R ≥ 4.3, `renv` para fijar versiones (`renv::init()` en la primera sesión).
+- R 4.6.1 y `renv`: `renv::restore()` instala las versiones exactas de `renv.lock`.
 - En `~/.Renviron`: `OPENALEX_API_KEY` (clave gratuita de OpenAlex) y `OPENALEX_MAILTO` (correo de contacto). No se escriben en los scripts.
 - Solver para CARNIVAL: HiGHS 1.15.1 en `../tools/` o en `HIGHS_PATH` (ver `docs/protocolo_reproducibilidad.md`).
 

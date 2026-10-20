@@ -12,6 +12,8 @@ suppressPackageStartupMessages({
   library(oligo); library(Biobase); library(GEOquery)
   library(moex10sttranscriptcluster.db)
 })
+# read.celfiles() loads the platform design package by name; named here so renv records it
+stopifnot(requireNamespace("pd.moex.1.0.st.v1", quietly = TRUE))
 
 out_file <- file.path(paths$raw_geo, "GSE28383_rma_core.rds")
 cel_dir  <- file.path(paths$raw_geo, "GSE28383_cel")
