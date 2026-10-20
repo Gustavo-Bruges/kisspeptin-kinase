@@ -1,0 +1,4 @@
+symbol,data_freq,in_fake_any,receptor_independent,survives_sensitivity
+CDK1,0.5,FALSE,FALSE,TRUE
+GSK3B,1,TRUE,TRUE,TRUE
+MAPK8,1,TRUE,TRUE,TRUE

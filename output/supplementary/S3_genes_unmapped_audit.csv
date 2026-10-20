@@ -1,0 +1,239 @@
+entrez,mention,n,organism,ncbi_symbol,no_human_ortholog
+443529,GnRH,371,Ovis aries,GNRH1,FALSE
+100301593,kisspeptin,72,Oryzias latipes,kiss2,TRUE
+100216472,kiss2,62,Danio rerio,kiss2,TRUE
+100216472,Kiss2,57,Danio rerio,kiss2,TRUE
+360141,gnrh3,38,Danio rerio,gnrh3,TRUE
+360141,GnRH3,33,Danio rerio,gnrh3,TRUE
+443529,gonadotropin-releasing hormone,30,Ovis aries,GNRH1,FALSE
+444964,RF9,28,Rattus norvegicus,Rf9,FALSE
+101094241,Kiss1r,24,Felis catus,KISS1R,FALSE
+22060,p53,23,Mus musculus,Trp53-ps,FALSE
+100144371,kiss1,22,Oryzias latipes,kiss1,TRUE
+100144371,Kiss1,21,Oryzias latipes,kiss1,TRUE
+100301593,kiss2,13,Oryzias latipes,kiss2,TRUE
+100694550,kiss2,13,Oreochromis niloticus,kiss2,TRUE
+100049220,GnRH3,12,Oryzias latipes,gnrh3,TRUE
+100049266,GnRH1,12,Oryzias latipes,gnrh1,FALSE
+569642,NKB,12,Danio rerio,tac3b,TRUE
+100534519,GPR54,11,Oreochromis niloticus,kiss1ra,TRUE
+500717,Meg3,11,Rattus norvegicus,Meg3,FALSE
+100144371,KiSS-1,10,Oryzias latipes,kiss1,TRUE
+100301593,Kiss2,10,Oryzias latipes,kiss2,TRUE
+352939,PNX,10,Danio rerio,pnx,TRUE
+443329,GH,10,Ovis aries,GH,FALSE
+443529,gonadotrophin-releasing hormone,10,Ovis aries,GNRH1,FALSE
+680498,histone H3,10,Rattus norvegicus,Hist1h3b,FALSE
+100150233,leptin,9,Danio rerio,lepa,TRUE
+100694550,Kiss2,9,Oreochromis niloticus,kiss2,TRUE
+100192356,KiSS-2,8,Xenopus laevis,kiss2.L,FALSE
+100534486,GnRH1,8,Oreochromis niloticus,gnrh1,FALSE
+100534486,gnrh1,8,Oreochromis niloticus,gnrh1,FALSE
+102387183,Kiss1,8,Alligator sinensis,KISS1,FALSE
+102465115,miR-1246,8,Bos taurus,MIR1246,FALSE
+113048197,GH,8,Carassius auratus,gh1,FALSE
+100316928,kisspeptin,7,Xenopus laevis,kiss1.S,FALSE
+100534487,GnRH3,7,Oreochromis niloticus,gnrh3,TRUE
+100720081,Kiss1,7,Cavia porcellus,Kiss1,FALSE
+105613195,insulin,7,Ovis aries,LOC105613195,FALSE
+114116958,GH,7,Ovis aries,LOC114116958,FALSE
+564687,gnrhr3,7,Danio rerio,gnrhr3,TRUE
+100301593,Kisspeptin,6,Oryzias latipes,kiss2,TRUE
+42947,AstA,6,Drosophila melanogaster,AstA,TRUE
+100533443,Buc,5,Aplysia californica,LOC100533443,FALSE
+101882735,vitellogenin,5,Danio rerio,LOC101882735,FALSE
+102291227,GnRH1,5,Haplochromis burtoni,gnrh1,FALSE
+106702129,KissR4,5,Latimeria chalumnae,LOC106702129,FALSE
+443395,LHbeta,5,Ovis aries,LHB,FALSE
+443529,gonadotropin releasing hormone,5,Ovis aries,GNRH1,FALSE
+444964,RF-9,5,Rattus norvegicus,Rf9,FALSE
+449319,FSH,5,Sus scrofa,FSH,FALSE
+500717,MEG3,5,Rattus norvegicus,Meg3,FALSE
+100049220,gonadotropin-releasing hormone,4,Oryzias latipes,gnrh3,TRUE
+100049266,gnrh1,4,Oryzias latipes,gnrh1,FALSE
+100216472,KiSS-2,4,Danio rerio,kiss2,TRUE
+100294654,PDYN,4,Ovis aries,PDYN,FALSE
+100534487,gnrh3,4,Oreochromis niloticus,gnrh3,TRUE
+101161643,vasotocin,4,Oryzias latipes,avp,TRUE
+102292126,GnRH,4,Haplochromis burtoni,gnrh2,FALSE
+113048197,growth hormone,4,Carassius auratus,gh1,FALSE
+301300,P53,4,Rattus norvegicus,p53-ps,FALSE
+30282,mt1,4,Danio rerio,mt,FALSE
+33238,PTTH,4,Drosophila melanogaster,Ptth,TRUE
+360141,Gnrh3,4,Danio rerio,gnrh3,TRUE
+387171,miR-153,4,Mus musculus,Mir153,FALSE
+443329,growth hormone,4,Ovis aries,GH,FALSE
+569642,neurokinin B,4,Danio rerio,tac3b,TRUE
+100049266,GnRH,3,Oryzias latipes,gnrh1,FALSE
+100049432,chgH,3,Oryzias latipes,LOC100049432,FALSE
+100049432,choriogenin H,3,Oryzias latipes,LOC100049432,FALSE
+100136065,vtgr,3,Oncorhynchus mykiss,LOC100136065,FALSE
+100294654,prodynorphin,3,Ovis aries,PDYN,FALSE
+100301593,Kiss,3,Oryzias latipes,kiss2,TRUE
+100316585,miR-181a,3,Sus scrofa,MIR181A-1,FALSE
+100316928,KiSS-1,3,Xenopus laevis,kiss1.S,FALSE
+100533443,buccalin,3,Aplysia californica,LOC100533443,FALSE
+100861193,PRL,3,Capra hircus,PROLACTIN,FALSE
+101106383,neuropeptides,3,Ovis aries,NPS,FALSE
+102392019,CYP19A1,3,Bubalus bubalis,LOC102392019,FALSE
+103350998,KISS1,3,Oryctolagus cuniculus,KISS1,FALSE
+105356452,fshbeta,3,Oryzias latipes,fshb,FALSE
+108638229,GH,3,Capra hircus,LOC108638229,FALSE
+301300,p53,3,Rattus norvegicus,p53-ps,FALSE
+30661,mel1c,3,Danio rerio,mtnr1c,TRUE
+387226,miR-30b,3,Mus musculus,Mir30b,FALSE
+443387,FSHbeta,3,Ovis aries,FSHB,FALSE
+443529,GNRH,3,Ovis aries,GNRH1,FALSE
+100049220,gnrh,2,Oryzias latipes,gnrh3,TRUE
+100049266,gonadotropin-releasing hormone,2,Oryzias latipes,gnrh1,FALSE
+100049275,thyroid hormone receptor alpha,2,Oryzias latipes,thra,FALSE
+100125483,lhbeta,2,Oryzias latipes,lhb,TRUE
+100136521,VA opsin,2,Salmo salar,LOC100136521,FALSE
+100136578,Gnrh,2,Salmo salar,gnrh3,TRUE
+100136578,gnrh2,2,Salmo salar,gnrh3,TRUE
+100136578,gnrh3,2,Salmo salar,gnrh3,TRUE
+100136735,vitellogenin,2,Oncorhynchus mykiss,LOC100136735,FALSE
+100144371,metastin,2,Oryzias latipes,kiss1,TRUE
+100174866,fsh-beta,2,Gasterosteus aculeatus,fsh-beta,FALSE
+100174897,lh-beta,2,Gasterosteus aculeatus,lhb,TRUE
+100190978,HSD3B1,2,Ovis aries,HSD3B1,FALSE
+100216472,Kisspeptin2,2,Danio rerio,kiss2,TRUE
+100216472,kiss 2,2,Danio rerio,kiss2,TRUE
+100314074,mir-21-5p,2,Rattus norvegicus,Mir215,FALSE
+100316928,Kisspeptin,2,Xenopus laevis,kiss1.S,FALSE
+100328948,cytochrome P-450,2,Oryctolagus cuniculus,LOC100328948,FALSE
+100360872,MCP-1,2,Rattus norvegicus,Mcpt1l1,FALSE
+100406553,Kiss1,2,Callithrix jacchus,KISS1,FALSE
+100533443,Buccalin,2,Aplysia californica,LOC100533443,FALSE
+100534500,fshb,2,Oreochromis niloticus,fshb,FALSE
+100534519,gpr54,2,Oreochromis niloticus,kiss1ra,TRUE
+100694550,kisspeptin2,2,Oreochromis niloticus,kiss2,TRUE
+101120877,histone H3,2,Ovis aries,LOC101120877,FALSE
+102295704,kisspeptin receptor,2,Haplochromis burtoni,kiss1ra,TRUE
+102464100,miR-136,2,Ovis aries,MIR136,FALSE
+109667,alpha(1)B-,2,Mus musculus,Brp1,FALSE
+113054826,SL,2,Carassius auratus,LOC113054826,FALSE
+17224,MCP-1,2,Mus musculus,Mcpt1,FALSE
+29347,FAAH,2,Rattus norvegicus,Faahl,FALSE
+29462,Avpr1b,2,Rattus norvegicus,Avpr1b,FALSE
+364773,17beta-hydroxysteroid dehydrogenase,2,Rattus norvegicus,Akr1c12,FALSE
+387176,miR-181a,2,Mus musculus,Mir181a-2,FALSE
+387244,let-7a,2,Mus musculus,Mirlet7a-1,FALSE
+387245,let-7b,2,Mus musculus,Mirlet7b,FALSE
+443020,prolactin receptor,2,Ovis aries,PR,FALSE
+559475,vtg1,2,Danio rerio,vtg1,FALSE
+569642,tac2b,2,Danio rerio,tac3b,TRUE
+780526,GhRH,2,Ovis aries,LOC780526,FALSE
+799423,cart3,2,Danio rerio,cart4,TRUE
+100049220,Gnrh3,1,Oryzias latipes,gnrh3,TRUE
+100049220,gonadotropin-releasing hormone-3,1,Oryzias latipes,gnrh3,TRUE
+100049266,gonadotropin-releasing hormone 1,1,Oryzias latipes,gnrh1,FALSE
+100125483,lhb,1,Oryzias latipes,lhb,TRUE
+100136065,vitellogenin-receptor,1,Oncorhynchus mykiss,LOC100136065,FALSE
+100136521,VA Opsin,1,Salmo salar,LOC100136521,FALSE
+100136521,vertebrate ancient (VA) opsin,1,Salmo salar,LOC100136521,FALSE
+100136578,GnRH,1,Salmo salar,gnrh3,TRUE
+100136578,GnRH3,1,Salmo salar,gnrh3,TRUE
+100136578,gonadotropin-releasing hormone,1,Salmo salar,gnrh3,TRUE
+100144356,Aralpha,1,Oryzias latipes,ar-alpha,FALSE
+100144371,KISS1,1,Oryzias latipes,kiss1,TRUE
+100150233,Leptin,1,Danio rerio,lepa,TRUE
+100150233,lepa,1,Danio rerio,lepa,TRUE
+100150233,leptin alpha,1,Danio rerio,lepa,TRUE
+100216472,KISS2,1,Danio rerio,kiss2,TRUE
+100216472,Kisspeptin-2,1,Danio rerio,kiss2,TRUE
+100233222,galanin,1,Xenopus laevis,gal.2.L,FALSE
+100270672,gnrhr1,1,Danio rerio,gnrhr1,TRUE
+100294654,Prodynorphin,1,Ovis aries,PDYN,FALSE
+100301593,KiSS-2,1,Oryzias latipes,kiss2,TRUE
+100301593,kiss,1,Oryzias latipes,kiss2,TRUE
+100314000,miR-21,1,Rattus norvegicus,Mir21,FALSE
+100314192,miR-144,1,Rattus norvegicus,Mir144,FALSE
+100316928,KiSS-1b,1,Xenopus laevis,kiss1.S,FALSE
+100529182,Fshr,1,Oryzias latipes,fshr,TRUE
+100533423,Neuropeptide Y,1,Aplysia californica,LOC100533423,FALSE
+100534500,fshbeta,1,Oreochromis niloticus,fshb,FALSE
+100534519,Gpr54,1,Oreochromis niloticus,kiss1ra,TRUE
+100622295,insulin-like growth factor binding protein-5,1,Sus scrofa,LOC100622295,FALSE
+100623180,LHR,1,Sus scrofa,LOC100623180,FALSE
+100625818,SRY,1,Sus scrofa,SRY,FALSE
+100628202,IL6,1,Sus scrofa,IL-6,FALSE
+100628202,Interleukin 6,1,Sus scrofa,IL-6,FALSE
+100692320,arntl,1,Oreochromis niloticus,LOC100692320,FALSE
+100693885,LPXRFa receptor,1,Oreochromis niloticus,npffr1l2,TRUE
+100694550,Kisspeptin2,1,Oreochromis niloticus,kiss2,TRUE
+100704227,leptin,1,Oreochromis niloticus,lepa,TRUE
+100860869,3betaHSD,1,Capra hircus,3BHSD,FALSE
+100861193,prolactin,1,Capra hircus,PROLACTIN,FALSE
+100861251,MYOD,1,Capra hircus,MYOD,FALSE
+100861251,myoblast determining factors,1,Capra hircus,MYOD,FALSE
+100861413,CYP19A1,1,Capra hircus,CYP19A1,FALSE
+101071898,fshb,1,Takifugu rubripes,LOC101071898,FALSE
+101078229,lhb,1,Takifugu rubripes,lhb,TRUE
+101112291,Xist,1,Ovis aries,LOC101112291,FALSE
+101123329,Gtl2,1,Ovis aries,MEG3,FALSE
+101155748,neuropeptide B.,1,Oryzias latipes,LOC101155748,FALSE
+101165324,cholecystokinin,1,Oryzias latipes,LOC101165324,FALSE
+101170986,Tet2,1,Oryzias latipes,LOC101170986,FALSE
+101844504,Lhbeta,1,Mesocricetus auratus,Lhb,FALSE
+101886159,GPR103B,1,Danio rerio,qrfprb,TRUE
+102171600,growth hormone,1,Capra hircus,LOC102171600,FALSE
+102183600,Clusterin,1,Capra hircus,LOC102183600,FALSE
+102307577,GnRH3,1,Haplochromis burtoni,gnrh3,TRUE
+102392019,cytochrome P450 Family 19 subfamily A member 1,1,Bubalus bubalis,LOC102392019,FALSE
+102401886,GHSR,1,Bubalus bubalis,GHSR,FALSE
+102465115,microRNA 1246,1,Bos taurus,MIR1246,FALSE
+102465115,microRNA-1246,1,Bos taurus,MIR1246,FALSE
+102465809,miR-10a,1,Ovis aries,MIR10A,FALSE
+103350998,kiss-1,1,Oryctolagus cuniculus,KISS1,FALSE
+103381541,fshr,1,Cynoglossus semilaevis,fshr,TRUE
+105356452,fshb,1,Oryzias latipes,fshb,FALSE
+105613195,Insulin,1,Ovis aries,LOC105613195,FALSE
+105614258,EGF,1,Ovis aries,EGF,FALSE
+106702129,Kissr-1 to -4,1,Latimeria chalumnae,LOC106702129,FALSE
+108348108,HSP70,1,Rattus norvegicus,Hspa1b,FALSE
+108348108,heat shock protein 70,1,Rattus norvegicus,Hspa1b,FALSE
+108351137,GAPDH,1,Rattus norvegicus,LOC108351137,FALSE
+108351137,glyceraldehyde-3-phosphate dehydrogenase,1,Rattus norvegicus,LOC108351137,FALSE
+108638229,growth hormone,1,Capra hircus,LOC108638229,FALSE
+108878062,gnrh-1,1,Lates calcarifer,LOC108878062,FALSE
+109667,alpha(1)/alpha(2beta)-adrenergic receptor,1,Mus musculus,Brp1,FALSE
+111343,IL-1,1,Mus musculus,Il1,FALSE
+113054826,Somatolactin,1,Carassius auratus,LOC113054826,FALSE
+113085247,GPR54b,1,Carassius auratus,kiss1rb,FALSE
+113110140,gnih receptor,1,Carassius auratus,npffr1l3,FALSE
+11354,ABP,1,Mus musculus,Scgb1b27,FALSE
+11691,ALP,1,Mus musculus,alp,FALSE
+12869,Cox8b,1,Mus musculus,Cox8b,FALSE
+23631928,cytochrome b,1,Trichopodus trichopterus,CYTB,FALSE
+28210,Galpha(q/11),1,Mus musculus,D0Nrs1,FALSE
+30518,vtg3,1,Danio rerio,vtg3,TRUE
+30660,mel1a,1,Danio rerio,mtnr1al,TRUE
+33238,prothoracicotropic hormone,1,Drosophila melanogaster,Ptth,TRUE
+34181,calcitonin,1,Drosophila melanogaster,Dh31,TRUE
+360141,gnrh-3,1,Danio rerio,gnrh3,TRUE
+360141,gonadotropin-releasing hormone 3,1,Danio rerio,gnrh3,TRUE
+360141,sgnrh,1,Danio rerio,gnrh3,TRUE
+365541,beta-arrestin 2,1,Rattus norvegicus,Arrb2-ps,FALSE
+396476,ApoVLDL-II,1,Gallus gallus,APOV1,FALSE
+403331,cytochrome P450 19A1,1,Sus scrofa,CYP19A1,FALSE
+41456,tachykinin-,1,Drosophila melanogaster,Tk,TRUE
+42560,bursicon,1,Drosophila melanogaster,Burs,TRUE
+432720,Akr1c19,1,Mus musculus,Akr1c19,FALSE
+443329,Growth Hormone,1,Ovis aries,GH,FALSE
+443387,follicle stimulating hormone (FSH) beta,1,Ovis aries,FSHB,FALSE
+443395,luteinizing hormone (LH) beta,1,Ovis aries,LHB,FALSE
+443419,signal transducer and activator of transcription 5,1,Ovis aries,STAT5A,FALSE
+443529,Gonadotropin releasing hormone,1,Ovis aries,GNRH1,FALSE
+443529,Gonadotropin-Releasing Hormone,1,Ovis aries,GNRH1,FALSE
+443529,Gonadotropin-releasing hormone,1,Ovis aries,GNRH1,FALSE
+443529,gonadotrophic steroid hormone,1,Ovis aries,GNRH1,FALSE
+559931,vtg2,1,Danio rerio,vtg2,TRUE
+569642,Neurokinin B,1,Danio rerio,tac3b,TRUE
+570651,sv2,1,Danio rerio,sv2,TRUE
+594847,CLIC1,1,Sus scrofa,CLIC1P,FALSE
+778002,PRL,1,Takifugu rubripes,prl,TRUE
+778002,prl,1,Takifugu rubripes,prl,TRUE
+778002,prolactin,1,Takifugu rubripes,prl,TRUE
+780526,Growth hormone releasing hormone,1,Ovis aries,LOC780526,FALSE
+808233,COX2,1,Oryctolagus cuniculus,COX2,FALSE

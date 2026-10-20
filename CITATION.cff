@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usas este código o sus resultados, cítalo con estos metadatos. Cita además el DOI de Zenodo de la versión que usaste."
+title: "Kisspeptina y vías de fosforilación río abajo de KISS1R: bibliometría, coocurrencia e inferencia causal"
+type: software
+authors:
+  - family-names: Bruges
+    given-names: Gustavo
+    orcid: "https://orcid.org/0000-0001-8566-1868"
+    affiliation: "Universidad Autónoma de Bucaramanga (UNAB)"
+version: 0.1.0
+date-released: 2026-10-20
+license: MIT
+keywords:
+  - kisspeptin
+  - KISS1R
+  - GPR54
+  - kinase signalling
+  - bibliometrics
+  - CARNIVAL
+  - causal network inference
+# Fill in when they exist (docs/protocolo_citacion.md):
+# repository-code: "https://github.com/<usuario>/kisspeptin-kinase"
+# doi: "10.5281/zenodo.<id>"
+# identifiers:
+#   - type: url
+#     value: "https://osf.io/<id>"
+#     description: "Preregistro en OSF"

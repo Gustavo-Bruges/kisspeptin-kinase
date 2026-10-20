@@ -1,0 +1,19 @@
+cluster,parent_cluster,n,community_auto,community,subfield,reviewer,review_date
+1,1,392,neuroendocrine,neuroendocrine,"clinical reproduction (hypogonadism, precocious puberty, PCOS)",GB,10/18/2026
+2,2,466,neuroendocrine,neuroendocrine,comparative: teleosts,GB,10/18/2026
+3,3,898,neuroendocrine,neuroendocrine,"metabolism, inflammation, PCOS",GB,10/18/2026
+5,5,820,neuroendocrine,neuroendocrine,"ruminants, seasonality, GnRH pulse generator",GB,10/18/2026
+6,6,580,neuroendocrine,neuroendocrine,"sexual differentiation, AVPV (rodents)",GB,10/18/2026
+7,7,2,other,other,cluster < 20 papers,GB,10/18/2026
+8,8,13,other,other,cluster < 20 papers,GB,10/18/2026
+9,9,4,other,other,cluster < 20 papers,GB,10/18/2026
+10,10,4,other,other,cluster < 20 papers,GB,10/18/2026
+11,11,9,other,other,cluster < 20 papers,GB,10/18/2026
+12,12,2,other,other,cluster < 20 papers,GB,10/18/2026
+13,13,2,other,other,cluster < 20 papers,GB,10/18/2026
+14,4,38,neuroendocrine,neuroendocrine,genetics of central precocious puberty (MKRN3),GB,10/18/2026
+15,4,251,oncology,oncology,metastasis suppression,GB,10/18/2026
+16,4,166,neuroendocrine,neuroendocrine,GPR54 genetics and puberty (mixed),GB,10/18/2026
+17,4,36,other,neuroendocrine,placenta and preeclampsia,GB,10/18/2026
+18,4,182,neuroendocrine,neuroendocrine,"metabolism, endocrine disruptors, livestock",GB,10/18/2026
+19,4,28,oncology,molecular,receptor discovery and pharmacology,GB,10/18/2026

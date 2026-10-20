@@ -1,0 +1,19 @@
+cluster,n,p_onc,p_neuro,lift_onc,lift_neuro,community_auto,parent_cluster,top_keywords
+1,392,0.08418367346938775,0.8698979591836735,0.6785238940296615,1.0368991901720885,neuroendocrine,1,hypogonadism (2.6); infertility (2.4); luteinizing hormone (2.3); central precocious puberty (2.2); dynorphin (1.9); obesity (1.7); testosterone (1.6); pcos (1.5); neurokinin b (1.5); gonadotropin-releasing hormone (1.4)
+2,466,0.05150214592274678,0.8841201716738197,0.41510942873137313,1.0538517539271832,neuroendocrine,2,cynoglossus semilaevis (7.5); lpxrfa (7.5); fish (7); kiss2 (6.9); teleost (6.3); zebrafish (5.7); evolution (4.5); brain (3.9); sexual maturation (3.2); gene expression (2.9)
+3,898,0.0801781737193764,0.856347438752784,0.6462394001853671,1.0207472685439645,neuroendocrine,3,inflammation (2.4); oxidative stress (2.1); polycystic ovary syndrome (2); kndy (2); pcos (2); central precocious puberty (1.9); infertility (1.8); precocious puberty (1.8); hypothalamic-pituitary-gonadal axis (1.8); hypogonadotropic hypogonadism (1.7)
+5,820,0.03170731707317073,0.9573170731707317,0.2555622885421401,1.1411008468627246,neuroendocrine,5,pars tuberalis (4.9); seasonality (3.7); glutamate (3); gnrh pulse generator (2.9); nutrition (2.8); menopause (2.7); kndy neurons (2.6); vasopressin (2.6); androgen (2.6); neurokinin b (2.4)
+6,580,0.056896551724137934,0.9379310344827586,0.45858856286142646,1.1179931161179972,neuroendocrine,6,sexual differentiation (4.2); oestrogen (3.6); anteroventral periventricular nucleus (3); neuroendocrinology (3); development (2.7); avpv (2.6); sexual behavior (2.2); rat (2.1); metastin (2); arcuate nucleus (1.9)
+7,2,0,1,0,1.1919779546846294,other,7,NA
+8,13,0.5384615384615384,0.7692307692307693,4.340022296544036,0.9169061189881766,other,8,NA
+9,4,0,0.5,0,0.5959889773423147,other,9,NA
+10,4,0,1,0,1.1919779546846294,other,10,NA
+11,9,0.3333333333333333,1,2.686680469289165,1.1919779546846294,other,11,NA
+12,2,0,1,0,1.1919779546846294,other,12,NA
+13,2,1,0,8.060041407867494,0,other,13,NA
+14,38,0.02631578947368421,0.9736842105263158,0.21210635283861828,1.160610113771876,neuroendocrine,4,kisspeptin (0.7)
+15,251,0.796812749003984,0.2589641434262948,6.42234375128884,0.30867955001793196,oncology,4,brms1 (12.9); metastasis suppressor (12.3); nm23 (11.4); colorectal cancer (10.5); kai1 (10.5); metastasis (9.8); invasion (9.2); prognosis (8.7); cancer (7.9); breast cancer (6.7)
+16,166,0.21686746987951808,0.6506024096385542,1.7479607872483724,0.7755037295538553,neuroendocrine,4,kisspeptins (2.5); kiss1 (1.6); gpr54 (1.5); kisspeptin (0.8); reproduction (0.8)
+17,36,0.2222222222222222,0.4166666666666667,1.7911203128594433,0.49665748111859565,other,4,kisspeptin (0.8)
+18,182,0.14285714285714285,0.8131868131868132,1.1514344868382136,0.9693007543589295,neuroendocrine,4,fsh (6); lh (3); metastin (2.8); gpr54 (2.6); gonadotropins (2.3); ovulation (2.3); kiss-1 (2.2); kisspeptins (2); obesity (1.7); kiss1r (1.2)
+19,28,0.42857142857142855,0.4642857142857143,3.4543034605146405,0.553418336103578,oncology,4,NA

@@ -1,0 +1,513 @@
+symbol,gene_pkinfam,uniprot,family,group,atypical,symbol_source,release,source
+AKT1,AKT1,P31749,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+AKT2,AKT2,P31751,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+AKT3,AKT3,Q9Y243,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDC42BPA,CDC42BPA,Q5VT25,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDC42BPB,CDC42BPB,Q9Y5S2,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDC42BPG,CDC42BPG,Q6DT37,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CIT,CIT,O14578,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DMPK,DMPK,Q09013,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GRK1,GRK1,Q15835,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GRK2,GRK2,P25098,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GRK3,GRK3,P35626,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GRK4,GRK4,P32298,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GRK5,GRK5,P34947,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GRK6,GRK6,P43250,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GRK7,GRK7,Q8WTQ7,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LATS1,LATS1,O95835,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LATS2,LATS2,Q9NRM7,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAST1,MAST1,Q9Y2H9,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAST2,MAST2,Q6P0Q8,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAST3,MAST3,O60307,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAST4,MAST4,O15021,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MASTL,MASTL,Q96GX5,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PDPK1,PDPK1,O15530,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PDPK2P,PDPK2P,Q6A1A2,AGC Ser/Thr protein kinase family,AGC,FALSE,pkinfam,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PKN1,PKN1,Q16512,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PKN2,PKN2,Q16513,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PKN3,PKN3,Q6P5Z2,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKACA,PRKACA,P17612,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKACB,PRKACB,P22694,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKACG,PRKACG,P22612,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKCA,PRKCA,P17252,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKCB,PRKCB,P05771,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKCD,PRKCD,Q05655,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKCE,PRKCE,Q02156,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKCG,PRKCG,P05129,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKCH,PRKCH,P24723,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKCI,PRKCI,P41743,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKCQ,PRKCQ,Q04759,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKCZ,PRKCZ,Q05513,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKG1,PRKG1,Q13976,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKG2,PRKG2,Q13237,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKX,PRKX,P51817,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ROCK1,ROCK1,Q13464,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ROCK2,ROCK2,O75116,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KA1,RPS6KA1,Q15418,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KA2,RPS6KA2,Q15349,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KA3,RPS6KA3,P51812,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KA4,RPS6KA4,O75676,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KA5,RPS6KA5,O75582,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KA6,RPS6KA6,Q9UK32,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KB1,RPS6KB1,P23443,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KB2,RPS6KB2,Q9UBS0,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SGK1,SGK1,O00141,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SGK2,SGK2,Q9HBY8,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SGK3,SGK3,Q96BR1,AGC Ser/Thr protein kinase family,AGC,FALSE,pkinfam,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK38,STK38,Q15208,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK38L,STK38L,Q9Y2H1,AGC Ser/Thr protein kinase family,AGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BRSK1,BRSK1,Q8TDC3,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BRSK2,BRSK2,Q8IWQ3,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMK1,CAMK1,Q14012,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMK1D,CAMK1D,Q8IU85,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMK1G,CAMK1G,Q96NX5,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMK2A,CAMK2A,Q9UQM7,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMK2B,CAMK2B,Q13554,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMK2D,CAMK2D,Q13557,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMK2G,CAMK2G,Q13555,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMK4,CAMK4,Q16566,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMKV,CAMKV,Q8NCB2,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CASK,CASK,O14936,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CHEK1,CHEK1,O14757,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CHEK2,CHEK2,O96017,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DAPK1,DAPK1,P53355,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DAPK2,DAPK2,Q9UIK4,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DAPK3,DAPK3,O43293,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DCLK1,DCLK1,O15075,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DCLK2,DCLK2,Q8N568,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DCLK3,DCLK3,Q9C098,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+HUNK,HUNK,P57058,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+KALRN,KALRN,O60229,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPKAPK2,MAPKAPK2,P49137,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPKAPK3,MAPKAPK3,Q16644,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPKAPK5,MAPKAPK5,Q8IW41,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MARK1,MARK1,Q9P0L2,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MARK2,MARK2,Q7KZI7,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MARK3,MARK3,P27448,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MARK4,MARK4,Q96L34,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MELK,MELK,Q14680,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MKNK1,MKNK1,Q9BUB5,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MKNK2,MKNK2,Q9HBH9,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MYLK,MYLK,Q15746,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MYLK2,MYLK2,Q9H1R3,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MYLK3,MYLK3,Q32MK0,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MYLK4,MYLK4,Q86YV6,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NIM1K,NIM1K,Q8IY84,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NUAK1,NUAK1,O60285,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NUAK2,NUAK2,Q9H093,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+OBSCN,OBSCN,Q5VST9,CAMK Ser/Thr protein kinase family,CAMK,FALSE,pkinfam,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PASK,PASK,Q96RG2,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PHKG1,PHKG1,Q16816,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PHKG2,PHKG2,P15735,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PIM1,PIM1,P11309,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PIM2,PIM2,Q9P1W9,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PIM3,PIM3,Q86V86,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PNCK,PNCK,Q6P2M8,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKAA1,PRKAA1,Q13131,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKAA2,PRKAA2,P54646,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKD1,PRKD1,Q15139,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKD2,PRKD2,Q9BZL6,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKD3,PRKD3,O94806,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PSKH1,PSKH1,P11801,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PSKH2,PSKH2,Q96QS6,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SIK1,SIK1,P57059,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SIK2,SIK2,Q9H0K1,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SIK3,SIK3,Q9Y2K2,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SNRK,SNRK,Q9NRH2,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SPEG,SPEG,Q15772,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK11,STK11,Q15831,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK17A,STK17A,Q9UEE5,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK17B,STK17B,O94768,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK33,STK33,Q9BYT3,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK40,STK40,Q8N2I9,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TRIB1,TRIB1,Q96RU8,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TRIB2,TRIB2,Q92519,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TRIB3,TRIB3,Q96RU7,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TRIO,TRIO,O75962,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TSSK1B,TSSK1B,Q9BXA7,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TSSK2,TSSK2,Q96PF2,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TSSK3,TSSK3,Q96PN8,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TSSK4,TSSK4,Q6SA08,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TSSK6,TSSK6,Q9BXA6,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TTN,TTN,Q8WZ42,CAMK Ser/Thr protein kinase family,CAMK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK1A1,CSNK1A1,P48729,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK1A1L,CSNK1A1L,Q8N752,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK1D,CSNK1D,P48730,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK1E,CSNK1E,P49674,CK1 Ser/Thr protein kinase family,CK1,FALSE,pkinfam,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK1G1,CSNK1G1,Q9HCP0,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK1G2,CSNK1G2,P78368,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK1G3,CSNK1G3,Q9Y6M4,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TTBK1,TTBK1,Q5TCY1,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TTBK2,TTBK2,Q6IQ55,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+VRK1,VRK1,Q99986,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+VRK2,VRK2,Q86Y07,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+VRK3,VRK3,Q8IV63,CK1 Ser/Thr protein kinase family,CK1,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK1,CDK1,P06493,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK10,CDK10,Q15131,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK11A,CDK11A,Q9UQ88,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK11B,CDK11B,P21127,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK12,CDK12,Q9NYV4,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK13,CDK13,Q14004,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK14,CDK14,O94921,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK15,CDK15,Q96Q40,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK16,CDK16,Q00536,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK17,CDK17,Q00537,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK18,CDK18,Q07002,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK19,CDK19,Q9BWU1,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK2,CDK2,P24941,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK20,CDK20,Q8IZL9,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK3,CDK3,Q00526,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK4,CDK4,P11802,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK5,CDK5,Q00535,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK6,CDK6,Q00534,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK7,CDK7,P50613,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK8,CDK8,P49336,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDK9,CDK9,P50750,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDKL1,CDKL1,Q00532,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDKL2,CDKL2,Q92772,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDKL3,CDKL3,Q8IVW4,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDKL4,CDKL4,Q5MAI5,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDKL5,CDKL5,O76039,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CILK1,CILK1,Q9UPZ9,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CLK1,CLK1,P49759,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CLK2,CLK2,P49760,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CLK3,CLK3,P49761,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CLK4,CLK4,Q9HAZ1,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DYRK1A,DYRK1A,Q13627,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DYRK1B,DYRK1B,Q9Y463,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DYRK2,DYRK2,Q92630,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DYRK3,DYRK3,O43781,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DYRK4,DYRK4,Q9NR20,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GSK3A,GSK3A,P49840,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GSK3B,GSK3B,P49841,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+HIPK1,HIPK1,Q86Z02,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+HIPK2,HIPK2,Q9H2X6,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+HIPK3,HIPK3,Q9H422,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+HIPK4,HIPK4,Q8NE63,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAK,MAK,P20794,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK1,MAPK1,P28482,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK10,MAPK10,P53779,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK11,MAPK11,Q15759,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK12,MAPK12,P53778,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK13,MAPK13,O15264,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK14,MAPK14,Q16539,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK15,MAPK15,Q8TD08,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK3,MAPK3,P27361,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK4,MAPK4,P31152,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK6,MAPK6,Q16659,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK7,MAPK7,Q13164,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK8,MAPK8,P45983,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAPK9,MAPK9,P45984,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MOK,MOK,Q9UQ07,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NLK,NLK,Q9UBE8,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRP4K,PRP4K,Q13523,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SRPK1,SRPK1,Q96SB4,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SRPK2,SRPK2,P78362,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SRPK3,SRPK3,Q9UPE1,CMGC Ser/Thr protein kinase family,CMGC,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK1,NEK1,Q96PY6,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK10,NEK10,Q6ZWH5,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK11,NEK11,Q8NG66,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK2,NEK2,P51955,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK3,NEK3,P51956,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK4,NEK4,P51957,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK5,NEK5,Q6P3R8,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK6,NEK6,Q9HC98,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK7,NEK7,Q8TDX7,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK8,NEK8,Q86SG6,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NEK9,NEK9,Q8TD19,NEK Ser/Thr protein kinase family,NEK,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GUCY2C,GUCY2C,P25092,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GUCY2D,GUCY2D,Q02846,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GUCY2F,GUCY2F,P51841,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NPR1,NPR1,P16066,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NPR2,NPR2,P20594,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,RGC kinase: adenylyl cyclase class-4/guanylyl cyclase,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP2K1,MAP2K1,Q02750,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP2K2,MAP2K2,P36507,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP2K3,MAP2K3,P46734,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP2K4,MAP2K4,P45985,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP2K5,MAP2K5,Q13163,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP2K6,MAP2K6,P52564,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP2K7,MAP2K7,O14733,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K1,MAP3K1,Q13233,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K10,MAP3K10,Q02779,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K11,MAP3K11,Q16584,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K12,MAP3K12,Q12852,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K13,MAP3K13,O43283,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K14,MAP3K14,Q99558,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K15,MAP3K15,Q6ZN16,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K19,MAP3K19,Q56UN5,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K2,MAP3K2,Q9Y2U5,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K20,MAP3K20,Q9NYL2,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K21,MAP3K21,Q5TCX8,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K3,MAP3K3,Q99759,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K4,MAP3K4,Q9Y6R4,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K5,MAP3K5,Q99683,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K6,MAP3K6,O95382,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K7,MAP3K7,O43318,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K8,MAP3K8,P41279,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP3K9,MAP3K9,P80192,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP4K1,MAP4K1,Q92918,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP4K2,MAP4K2,Q12851,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP4K3,MAP4K3,Q8IVH8,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP4K4,MAP4K4,O95819,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MAP4K5,MAP4K5,Q9Y4K4,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MINK1,MINK1,Q8N4C8,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MYO3A,MYO3A,Q8NEV4,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MYO3B,MYO3B,Q8WXR4,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NRK,NRK,Q7Z2Y5,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+OXSR1,OXSR1,O95747,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PAK1,PAK1,Q13153,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PAK2,PAK2,Q13177,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PAK3,PAK3,O75914,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PAK4,PAK4,O96013,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PAK5,PAK5,Q9P286,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PAK6,PAK6,Q9NQU5,STE Ser/Thr protein kinase family,STE,FALSE,pkinfam,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PBK,PBK,Q96KB5,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SLK,SLK,Q9H2G2,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK10,STK10,O94804,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK24,STK24,Q9Y6E0,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK25,STK25,O00506,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK26,STK26,Q9P289,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK3,STK3,Q13188,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK39,STK39,Q9UEW8,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK4,STK4,Q13043,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STRADA,STRADA,Q7RTN6,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STRADB,STRADB,Q9C0K7,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TAOK1,TAOK1,Q7L7X3,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TAOK2,TAOK2,Q9UL54,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TAOK3,TAOK3,Q9H2K8,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TNIK,TNIK,Q9UKE5,STE Ser/Thr protein kinase family,STE,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ACVR1,ACVR1,Q04771,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ACVR1B,ACVR1B,P36896,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ACVR1C,ACVR1C,Q8NER5,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ACVR2A,ACVR2A,P27037,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ACVR2B,ACVR2B,Q13705,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ACVRL1,ACVRL1,P37023,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+AMHR2,AMHR2,Q16671,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ANKK1,ANKK1,Q8NFD2,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ARAF,ARAF,P10398,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BMPR1A,BMPR1A,P36894,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BMPR1B,BMPR1B,O00238,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BMPR2,BMPR2,Q13873,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BRAF,BRAF,P15056,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ILK,ILK,Q13418,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+IRAK1,IRAK1,P51617,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+IRAK2,IRAK2,O43187,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+IRAK3,IRAK3,Q9Y616,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+IRAK4,IRAK4,Q9NWZ3,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+KSR1,KSR1,Q8IVT5,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+KSR2,KSR2,Q6VAB6,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LIMK1,LIMK1,P53667,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LIMK2,LIMK2,P53671,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LRRK1,LRRK1,Q38SD2,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LRRK2,LRRK2,Q5S007,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RAF1,RAF1,P04049,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RIPK1,RIPK1,Q13546,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RIPK2,RIPK2,O43353,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RIPK3,RIPK3,Q9Y572,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RIPK4,RIPK4,P57078,TKL Ser/Thr protein kinase family,TKL,FALSE,pkinfam,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TESK1,TESK1,Q15569,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TESK2,TESK2,Q96S53,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TGFBR1,TGFBR1,P36897,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TGFBR2,TGFBR2,P37173,TKL Ser/Thr protein kinase family,TKL,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TNNI3K,TNNI3K,Q59H18,TKL Ser/Thr protein kinase family,TKL,FALSE,pkinfam,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+AATK,AATK,Q6ZMQ8,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ABL1,ABL1,P00519,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ABL2,ABL2,P42684,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ALK,ALK,Q9UM73,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+AXL,AXL,P30530,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BLK,BLK,P51451,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BMX,BMX,P51813,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BTK,BTK,Q06187,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSF1R,CSF1R,P07333,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSK,CSK,P41240,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DDR1,DDR1,Q08345,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DDR2,DDR2,Q16832,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EGFR,EGFR,P00533,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHA1,EPHA1,P21709,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHA10,EPHA10,Q5JZY3,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHA2,EPHA2,P29317,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHA3,EPHA3,P29320,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHA4,EPHA4,P54764,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHA5,EPHA5,P54756,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHA6,EPHA6,Q9UF33,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHA7,EPHA7,Q15375,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHA8,EPHA8,P29322,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHB1,EPHB1,P54762,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHB2,EPHB2,P29323,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHB3,EPHB3,P54753,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHB4,EPHB4,P54760,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EPHB6,EPHB6,O15197,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ERBB2,ERBB2,P04626,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ERBB3,ERBB3,P21860,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ERBB4,ERBB4,Q15303,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FER,FER,P16591,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FES,FES,P07332,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FGFR1,FGFR1,P11362,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FGFR2,FGFR2,P21802,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FGFR3,FGFR3,P22607,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FGFR4,FGFR4,P22455,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FGR,FGR,P09769,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FLT1,FLT1,P17948,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FLT3,FLT3,P36888,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FLT4,FLT4,P35916,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FRK,FRK,P42685,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FYN,FYN,P06241,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+HCK,HCK,P08631,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+IGF1R,IGF1R,P08069,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+INSR,INSR,P06213,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+INSRR,INSRR,P14616,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ITK,ITK,Q08881,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+JAK1,JAK1,P23458,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+JAK2,JAK2,O60674,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+JAK3,JAK3,P52333,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+KDR,KDR,P35968,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+KIT,KIT,P10721,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LCK,LCK,P06239,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LMTK2,LMTK2,Q8IWU2,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LMTK3,LMTK3,Q96Q04,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LTK,LTK,P29376,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+LYN,LYN,P07948,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MATK,MATK,P42679,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MERTK,MERTK,Q12866,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MET,MET,P08581,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MST1R,MST1R,Q04912,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MUSK,MUSK,O15146,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NTRK1,NTRK1,P04629,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NTRK2,NTRK2,Q16620,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NTRK3,NTRK3,Q16288,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PDGFRA,PDGFRA,P16234,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PDGFRB,PDGFRB,P09619,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PTK2,PTK2,Q05397,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PTK2B,PTK2B,Q14289,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PTK6,PTK6,Q13882,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PTK7,PTK7,Q13308,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RET,RET,P07949,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ROR1,ROR1,Q01973,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ROR2,ROR2,Q01974,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ROS1,ROS1,P08922,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RYK,RYK,P34925,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SRC,SRC,P12931,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SRMS,SRMS,Q9H3Y6,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STYK1,STYK1,Q6J9G0,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SYK,SYK,P43405,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TEC,TEC,P42680,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TEK,TEK,Q02763,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TIE1,TIE1,P35590,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TNK1,TNK1,Q13470,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TNK2,TNK2,Q07912,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TXK,TXK,P42681,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TYK2,TYK2,P29597,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TYRO3,TYRO3,Q06418,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+YES1,YES1,P07947,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ZAP70,ZAP70,P43403,Tyr protein kinase family,Tyr,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+AAK1,AAK1,Q2M2I8,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+AURKA,AURKA,O14965,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+AURKB,AURKB,Q96GD4,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+AURKC,AURKC,Q9UQB9,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BMP2K,BMP2K,Q9NSY1,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BUB1,BUB1,O43683,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BUB1B,BUB1B,O60566,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMKK1,CAMKK1,Q8N5S9,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CAMKK2,CAMKK2,Q96RR4,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CDC7,CDC7,O00311,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CHUK,CHUK,O15111,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK2A1,CSNK2A1,P68400,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK2A2,CSNK2A2,P19784,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+CSNK2A3,CSNK2A3,Q8NEV1,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+DSTYK,DSTYK,Q6XUX3,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EIF2AK1,EIF2AK1,Q9BQI3,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EIF2AK2,EIF2AK2,P19525,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EIF2AK3,EIF2AK3,Q9NZJ5,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EIF2AK4,EIF2AK4,Q9P2K8,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ERN1,ERN1,O75460,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ERN2,ERN2,Q76MJ5,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+GAK,GAK,O14976,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+HASPIN,HASPIN,Q8TF76,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+IKBKB,IKBKB,O14920,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+IKBKE,IKBKE,Q14164,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MLKL,MLKL,Q8NB16,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MOS,MOS,P00540,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NRBP1,NRBP1,Q9UHY1,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+NRBP2,NRBP2,Q9NSY0,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PAN3,PAN3,Q58A45,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PDIK1L,PDIK1L,Q8N165,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PEAK1,PEAK1,Q9H792,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PEAK3,PEAK3,Q6ZS72,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PIK3R4,PIK3R4,Q99570,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PINK1,PINK1,Q9BXM7,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PKDCC,PKDCC,Q504Y2,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PKMYT1,PKMYT1,Q99640,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PLK1,PLK1,P53350,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PLK2,PLK2,Q9NYY3,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PLK3,PLK3,Q9H4B4,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PLK4,PLK4,O00444,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PLK5,PLK5,Q496M5,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+POMK,POMK,Q9H5K3,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRAG1,PRAG1,Q86YV5,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PXK,PXK,Q7Z7A4,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RNASEL,RNASEL,Q05823,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KC1,RPS6KC1,Q96S38,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RPS6KL1,RPS6KL1,Q9Y6S9,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RSKR,RSKR,Q96LW2,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SBK1,SBK1,Q52WX2,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SBK2,SBK2,P0C263,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SBK3,SBK3,P0C264,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SCYL1,SCYL1,Q96KG9,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SCYL2,SCYL2,Q6P3W7,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SCYL3,SCYL3,Q8IZE3,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK16,STK16,O75716,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK31,STK31,Q9BXU1,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK32A,STK32A,Q8WU08,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK32B,STK32B,Q9NY57,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK32C,STK32C,Q86UX6,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK35,STK35,Q8TDR2,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STK36,STK36,Q9NRP7,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+STKLD1,STKLD1,Q8NE28,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TBCK,TBCK,Q8TEA7,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TBK1,TBK1,Q9UHD2,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TEX14,TEX14,Q8IWB6,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TLK1,TLK1,Q9UKI8,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TLK2,TLK2,Q86UE8,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TP53RK,TP53RK,Q96S44,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TTK,TTK,P33981,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+UHMK1,UHMK1,Q8TAS1,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ULK1,ULK1,O75385,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ULK2,ULK2,Q8IYT8,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ULK3,ULK3,Q6PHR2,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ULK4,ULK4,Q96C45,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+WEE1,WEE1,P30291,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+WEE2,WEE2,P0C1S8,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+WNK1,WNK1,Q9H4A3,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+WNK2,WNK2,Q9Y3S1,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+WNK3,WNK3,Q9BYP7,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+WNK4,WNK4,Q96J92,Other,Other,FALSE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ADCK1,ADCK1,Q86TW2,Atypical: ADCK protein kinase family,ADCK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ADCK2,ADCK2,Q7Z695,Atypical: ADCK protein kinase family,ADCK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ADCK5,ADCK5,Q3MIX3,Atypical: ADCK protein kinase family,ADCK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+COQ8A,COQ8A,Q8NI60,Atypical: ADCK protein kinase family,ADCK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+COQ8B,COQ8B,Q96D53,Atypical: ADCK protein kinase family,ADCK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ALPK1,ALPK1,Q96QP1,Atypical: Alpha-type protein kinase family,Alpha-type,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ALPK2,ALPK2,Q86TB3,Atypical: Alpha-type protein kinase family,Alpha-type,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ALPK3,ALPK3,Q96L96,Atypical: Alpha-type protein kinase family,Alpha-type,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+EEF2K,EEF2K,O00418,Atypical: Alpha-type protein kinase family,Alpha-type,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TRPM6,TRPM6,Q9BX84,Atypical: Alpha-type protein kinase family,Alpha-type,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+TRPM7,TRPM7,Q96QT4,Atypical: Alpha-type protein kinase family,Alpha-type,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+FASTK,FASTK,Q14296,Atypical: FAST protein kinase family,FAST,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+BCKDK,BCKDK,O14874,Atypical: PDK/BCKDK protein kinase family,PDK/BCKDK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PDK1,PDK1,Q15118,Atypical: PDK/BCKDK protein kinase family,PDK/BCKDK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PDK2,PDK2,Q15119,Atypical: PDK/BCKDK protein kinase family,PDK/BCKDK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PDK3,PDK3,Q15120,Atypical: PDK/BCKDK protein kinase family,PDK/BCKDK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PDK4,PDK4,Q16654,Atypical: PDK/BCKDK protein kinase family,PDK/BCKDK,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ATM,ATM,Q13315,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+ATR,ATR,Q13535,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+MTOR,MTOR,P42345,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PIK3C2A,PIK3C2A,O00443,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PIK3CA,PIK3CA,P42336,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PIK3CB,PIK3CB,P42338,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PIK3CD,PIK3CD,O00329,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PIK3CG,PIK3CG,P48736,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+PRKDC,PRKDC,P78527,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+SMG1,SMG1,Q96Q15,Atypical: PI3/PI4-kinase family,PI3/PI4-kinase family,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RIOK1,RIOK1,Q9BRS2,Atypical: RIO-type Ser/Thr kinase family,RIO-type,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RIOK2,RIOK2,Q9BVS4,Atypical: RIO-type Ser/Thr kinase family,RIO-type,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt
+RIOK3,RIOK3,O14730,Atypical: RIO-type Ser/Thr kinase family,RIO-type,TRUE,org.Hs.eg.db,2026_03 of 02-Sep-2026,pkinfam_2026-10-18.txt

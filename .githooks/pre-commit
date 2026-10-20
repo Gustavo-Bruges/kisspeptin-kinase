@@ -1,0 +1,50 @@
+#!/bin/sh
+## Pre-commit checks for a public repository (docs/protocolo_datos.md, section 5).
+## Enable once per clone: git config core.hooksPath .githooks
+## Bypassing it (--no-verify) needs a written reason in the commit message.
+
+max_bytes=52428800                       # 50 MB: GitHub warns above 50 MB and rejects above 100 MB
+fail=0
+block() { echo "pre-commit: $1" >&2; fail=1; }
+
+# Files with licensed third-party content (Scopus/WoS records, abstracts, COSMIC).
+# Returns 0 (blocked) or 1 (allowed) for one staged path.
+is_licensed() {
+  path="$1"
+  case "$path" in */.gitkeep) return 1 ;; esac      # empty placeholders keep the folder layout
+  case "$path" in
+    data/raw/wos/*|data/raw/scopus/*|data/raw/pubtator/*|*cancer_gene_census*|*[Cc][Oo][Ss][Mm][Ii][Cc]*) return 0 ;;
+    *.xlsx|*.xls) return 0 ;;                # headers cannot be read from sh: export a reviewed sheet to .csv instead
+  esac
+  case "$path" in
+    *.csv|*.tsv|*.txt)                        # titles are metadata (allowed); abstracts/full text are not
+      head -1 "$path" | tr 'A-Z' 'a-z' | tr '\t;' ',,' | tr ',' '\n' | tr -d '"\r ' |
+        grep -Eqx 'abstract|ab|full_?text|sentence_?text|passage' && return 0 ;;
+  esac
+  return 1
+}
+
+staged=$(git diff --cached --name-only --diff-filter=ACM)
+for f in $staged; do
+  [ -f "$f" ] || continue
+
+  size=$(wc -c < "$f")
+  [ "$size" -gt "$max_bytes" ] && block "$f is $((size / 1048576)) MB (> 50 MB): archive it in Zenodo, not git"
+
+  is_licensed "$f" && block "$f carries licensed content (see docs/protocolo_datos.md, section 1)"
+
+  # Secrets and personal contact data typed into code: only added lines are scanned
+  added=$(git diff --cached -U0 -- "$f" | grep '^+' | grep -v '^+++')
+  echo "$added" | grep -Eiq '(api[_-]?key|token|secret|password)[[:space:]]*[=:][[:space:]]*["'\''][A-Za-z0-9_-]{12,}' &&
+    block "$f: looks like a hard-coded key; keep it in ~/.Renviron and read it with Sys.getenv()"
+  case "$f" in
+    R/*|.githooks/*)
+      echo "$added" | grep -Eiq '[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}' &&
+        block "$f: e-mail address in code; use Sys.getenv(\"OPENALEX_MAILTO\")" ;;
+  esac
+done
+
+case "$staged" in *.Renviron*|*.env*) block ".Renviron/.env must never be committed" ;; esac
+
+[ "$fail" -eq 0 ] || { echo "pre-commit: commit blocked. Fix the files above or unstage them (git restore --staged <file>)." >&2; exit 1; }
+exit 0

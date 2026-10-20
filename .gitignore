@@ -1,0 +1,41 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+renv/local/
+
+# Solver and package logs written to the project root
+Highs.log
+omnipathr-log/
+*.lp
+*_highs.sol
+*_highs.opt
+
+# Licensed or large raw data (identifiers and code are versioned instead; see docs/protocolo_datos.md)
+data/raw/wos/*
+data/raw/scopus/*
+data/raw/openalex/*
+data/raw/geo/*
+data/raw/pubtator/*
+data/raw/curated/cancer_gene_census*
+data/raw/curated/cancermine*
+data/raw/curated/gene_orthologs_*
+data/raw/curated/gene2pubmed_*
+data/raw/curated/omnipath_*
+data/processed/*
+!data/**/.gitkeep
+
+# Annotation files that carry Scopus titles/abstracts (licence forbids redistribution);
+# the public version is the stripped export data/annotation/direction_annotation_public.csv
+data/annotation/direction_annotation_template.csv
+data/annotation/direction_annotator*.xlsx
+
+# Office lock files and unreviewed spreadsheets in docs/
+~$*
+docs/*.xlsx
+
+# Secrets
+.Renviron
+.env

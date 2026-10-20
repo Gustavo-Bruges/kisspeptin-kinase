@@ -1,0 +1,81 @@
+================================================================================
+ ECUACIONES DE BÚSQUEDA · ESTUDIO KISSPEPTINA–KISS1R · VERSIÓN 1.1
+ C = corpus total
+ S = subcorpus de señalización = C ∩ bloque K (definición analítica: marca local en R/04)
+ E = marca local de efectores no quinasa (no define S)
+ Periodo 1996–2025 · Artículos y revisiones · Sin restricción de idioma
+ Fecha de extracción: ____/____/2026
+--------------------------------------------------------------------------------
+ CAMBIOS v1.0 → v1.1
+ + EIF2AK2 / PKR, AXL, RTK, EGFR/ErbB, TGFBR / ALK5, ROCK1/2, "Src family"
+ - Src suelto reemplazado por "c-Src" / "Src kinase" (evita SRC-1/SRC-3, coactivadores)
+ - ROCK suelto excluido (evita "rockfish")
+ Campos: título + resumen + palabras clave del autor (sin KeyWords Plus ni términos indexados)
+================================================================================
+
+--------------------------------------------------------------------------------
+ 1. WEB OF SCIENCE CORE COLLECTION · Búsqueda avanzada
+--------------------------------------------------------------------------------
+
+#1  [WoS-C] Corpus total
+
+(TI=(kisspeptin* OR metastin* OR KISS1* OR KISS2* OR KISSR* OR "KiSS-1" OR "KiSS 1 receptor" OR GPR54 OR "GPR 54" OR AXOR12 OR hOT7T175)
+ OR AB=(kisspeptin* OR metastin* OR KISS1* OR KISS2* OR KISSR* OR "KiSS-1" OR "KiSS 1 receptor" OR GPR54 OR "GPR 54" OR AXOR12 OR hOT7T175)
+ OR AK=(kisspeptin* OR metastin* OR KISS1* OR KISS2* OR KISSR* OR "KiSS-1" OR "KiSS 1 receptor" OR GPR54 OR "GPR 54" OR AXOR12 OR hOT7T175))
+AND PY=(1996-2025)
+AND DT=(Article OR Review)
+
+#2  [WoS-K] Bloque de quinasas v1.1
+
+TI=(phosphorylat* OR kinase* OR phosphoproteom* OR kinom* OR MAPK* OR ERK* OR "ERK1/2" OR p38 OR JNK* OR MEK* OR "mitogen-activated protein kinase" OR PI3K* OR "phosphatidylinositol 3-kinase" OR AKT* OR "protein kinase B" OR mTOR* OR PKC* OR "protein kinase C" OR CaMK* OR "calmodulin-dependent kinase" OR PKA OR "protein kinase A" OR GRK* OR "G protein-coupled receptor kinase" OR arrestin* OR GSK3* OR "glycogen synthase kinase" OR "c-Src" OR "Src kinase" OR "Src family" OR FAK OR "focal adhesion kinase" OR RSK* OR p90RSK OR EIF2AK2 OR "protein kinase R" OR "double-stranded RNA-dependent protein kinase" OR PKR OR AXL OR RTK* OR EGFR OR ErbB* OR "epidermal growth factor receptor" OR TGFBR* OR ALK5 OR "TGF-beta receptor" OR ROCK1 OR ROCK2 OR "Rho-associated kinase" OR "Rho kinase")
+OR AB=(phosphorylat* OR kinase* OR phosphoproteom* OR kinom* OR MAPK* OR ERK* OR "ERK1/2" OR p38 OR JNK* OR MEK* OR "mitogen-activated protein kinase" OR PI3K* OR "phosphatidylinositol 3-kinase" OR AKT* OR "protein kinase B" OR mTOR* OR PKC* OR "protein kinase C" OR CaMK* OR "calmodulin-dependent kinase" OR PKA OR "protein kinase A" OR GRK* OR "G protein-coupled receptor kinase" OR arrestin* OR GSK3* OR "glycogen synthase kinase" OR "c-Src" OR "Src kinase" OR "Src family" OR FAK OR "focal adhesion kinase" OR RSK* OR p90RSK OR EIF2AK2 OR "protein kinase R" OR "double-stranded RNA-dependent protein kinase" OR PKR OR AXL OR RTK* OR EGFR OR ErbB* OR "epidermal growth factor receptor" OR TGFBR* OR ALK5 OR "TGF-beta receptor" OR ROCK1 OR ROCK2 OR "Rho-associated kinase" OR "Rho kinase")
+OR AK=(phosphorylat* OR kinase* OR phosphoproteom* OR kinom* OR MAPK* OR ERK* OR "ERK1/2" OR p38 OR JNK* OR MEK* OR "mitogen-activated protein kinase" OR PI3K* OR "phosphatidylinositol 3-kinase" OR AKT* OR "protein kinase B" OR mTOR* OR PKC* OR "protein kinase C" OR CaMK* OR "calmodulin-dependent kinase" OR PKA OR "protein kinase A" OR GRK* OR "G protein-coupled receptor kinase" OR arrestin* OR GSK3* OR "glycogen synthase kinase" OR "c-Src" OR "Src kinase" OR "Src family" OR FAK OR "focal adhesion kinase" OR RSK* OR p90RSK OR EIF2AK2 OR "protein kinase R" OR "double-stranded RNA-dependent protein kinase" OR PKR OR AXL OR RTK* OR EGFR OR ErbB* OR "epidermal growth factor receptor" OR TGFBR* OR ALK5 OR "TGF-beta receptor" OR ROCK1 OR ROCK2 OR "Rho-associated kinase" OR "Rho kinase")
+
+#3  [WoS-S] Subcorpus de señalización (solo para estimar tamaño y validar precisión)
+
+#1 AND #2
+
+--------------------------------------------------------------------------------
+ 2. SCOPUS · Búsqueda avanzada
+--------------------------------------------------------------------------------
+
+[SCO-C] Corpus total
+
+( TITLE-ABS ( kisspeptin* OR metastin* OR kiss1* OR kiss2* OR kissr* OR "KiSS-1" OR "KiSS 1 receptor" OR gpr54 OR "GPR 54" OR axor12 OR hot7t175 )
+  OR AUTHKEY ( kisspeptin* OR metastin* OR kiss1* OR kiss2* OR kissr* OR "KiSS-1" OR "KiSS 1 receptor" OR gpr54 OR "GPR 54" OR axor12 OR hot7t175 ) )
+AND PUBYEAR > 1995 AND PUBYEAR < 2026
+AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) )
+
+[SCO-S] Subcorpus de señalización
+
+( TITLE-ABS ( kisspeptin* OR metastin* OR kiss1* OR kiss2* OR kissr* OR "KiSS-1" OR "KiSS 1 receptor" OR gpr54 OR "GPR 54" OR axor12 OR hot7t175 )
+  OR AUTHKEY ( kisspeptin* OR metastin* OR kiss1* OR kiss2* OR kissr* OR "KiSS-1" OR "KiSS 1 receptor" OR gpr54 OR "GPR 54" OR axor12 OR hot7t175 ) )
+AND
+( TITLE-ABS ( phosphorylat* OR kinase* OR phosphoproteom* OR kinom* OR mapk* OR erk* OR "ERK1/2" OR p38 OR jnk* OR mek* OR "mitogen-activated protein kinase" OR pi3k* OR "phosphatidylinositol 3-kinase" OR akt* OR "protein kinase B" OR mtor* OR pkc* OR "protein kinase C" OR camk* OR "calmodulin-dependent kinase" OR pka OR "protein kinase A" OR grk* OR "G protein-coupled receptor kinase" OR arrestin* OR gsk3* OR "glycogen synthase kinase" OR "c-Src" OR "Src kinase" OR "Src family" OR fak OR "focal adhesion kinase" OR rsk* OR p90rsk OR eif2ak2 OR "protein kinase R" OR "double-stranded RNA-dependent protein kinase" OR pkr OR axl OR rtk* OR egfr OR erbb* OR "epidermal growth factor receptor" OR tgfbr* OR alk5 OR "TGF-beta receptor" OR rock1 OR rock2 OR "Rho-associated kinase" OR "Rho kinase" )
+  OR AUTHKEY ( phosphorylat* OR kinase* OR phosphoproteom* OR kinom* OR mapk* OR erk* OR "ERK1/2" OR p38 OR jnk* OR mek* OR "mitogen-activated protein kinase" OR pi3k* OR "phosphatidylinositol 3-kinase" OR akt* OR "protein kinase B" OR mtor* OR pkc* OR "protein kinase C" OR camk* OR "calmodulin-dependent kinase" OR pka OR "protein kinase A" OR grk* OR "G protein-coupled receptor kinase" OR arrestin* OR gsk3* OR "glycogen synthase kinase" OR "c-Src" OR "Src kinase" OR "Src family" OR fak OR "focal adhesion kinase" OR rsk* OR p90rsk OR eif2ak2 OR "protein kinase R" OR "double-stranded RNA-dependent protein kinase" OR pkr OR axl OR rtk* OR egfr OR erbb* OR "epidermal growth factor receptor" OR tgfbr* OR alk5 OR "TGF-beta receptor" OR rock1 OR rock2 OR "Rho-associated kinase" OR "Rho kinase" ) )
+AND PUBYEAR > 1995 AND PUBYEAR < 2026
+AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) )
+
+--------------------------------------------------------------------------------
+ 3. OPENALEX · API (title_and_abstract.search; términos expandidos sin comodines)
+    Verificar soporte de booleanos/paréntesis y tokenización del guion con oa_query()
+--------------------------------------------------------------------------------
+
+[OA-C] Corpus total
+
+filter=title_and_abstract.search:(kisspeptin OR kisspeptins OR "kisspeptin-10" OR "kisspeptin-54" OR metastin OR KISS1 OR KISS1R OR "KiSS-1" OR "KiSS 1 receptor" OR kiss2 OR kissr2 OR kissr3 OR GPR54 OR "GPR 54" OR AXOR12 OR hOT7T175),publication_year:1996-2025,type:article|review
+
+[OA-S] Subcorpus de señalización
+
+filter=title_and_abstract.search:((kisspeptin OR kisspeptins OR "kisspeptin-10" OR "kisspeptin-54" OR metastin OR KISS1 OR KISS1R OR "KiSS-1" OR "KiSS 1 receptor" OR kiss2 OR kissr2 OR kissr3 OR GPR54 OR "GPR 54" OR AXOR12 OR hOT7T175) AND (phosphorylation OR phosphorylated OR kinase OR kinases OR phosphoproteomics OR kinome OR MAPK OR ERK OR ERK1 OR ERK2 OR "ERK1/2" OR p38 OR JNK OR MEK OR "mitogen-activated protein kinase" OR PI3K OR "phosphatidylinositol 3-kinase" OR AKT OR "protein kinase B" OR mTOR OR PKC OR "protein kinase C" OR CaMKII OR "calmodulin-dependent kinase" OR PKA OR "protein kinase A" OR GRK2 OR "G protein-coupled receptor kinase" OR arrestin OR "beta-arrestin" OR GSK3 OR "GSK-3" OR "glycogen synthase kinase" OR "c-Src" OR "Src kinase" OR "Src family" OR FAK OR "focal adhesion kinase" OR RSK OR p90RSK OR EIF2AK2 OR "protein kinase R" OR "double-stranded RNA-dependent protein kinase" OR PKR OR AXL OR RTK OR "receptor tyrosine kinase" OR EGFR OR ErbB2 OR "epidermal growth factor receptor" OR TGFBR1 OR TGFBR2 OR ALK5 OR "TGF-beta receptor" OR ROCK1 OR ROCK2 OR "Rho-associated kinase" OR "Rho kinase")),publication_year:1996-2025,type:article|review
+
+================================================================================
+ REGISTRO POR EJECUCIÓN (suplementario S1)
+ Base | Ecuación | Versión | Fecha | n | n tras deduplicar por DOI | Responsable
+--------------------------------------------------------------------------------
+ WoS      | #1 |  1.1 |            |      |      |
+ WoS      | #3 |  1.1 |            |      |      |
+ Scopus   | C  |  1.1 |            |      |      |
+ Scopus   | S  |  1.1 |            |      |      |
+ OpenAlex | C  |  1.1 |            |      |      |
+================================================================================

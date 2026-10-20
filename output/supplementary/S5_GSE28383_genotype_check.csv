@@ -1,0 +1,5 @@
+gene,genotype,age,mean_log2,n
+Kiss1r,GPR54-/- mutant,NA,6.137291841345156,4
+Kiss1r,KISS1-/- mutant,NA,6.714871015843413,5
+Kiss1r,WT,3 weeks old,6.96333130731055,3
+Kiss1r,WT,6 weeks old,6.788779695674835,5

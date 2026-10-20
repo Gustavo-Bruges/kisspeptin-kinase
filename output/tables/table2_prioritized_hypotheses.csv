@@ -1,0 +1,6 @@
+symbol,n_docs,first_year,community,community_lift,n_sent_kiss,pubmed_n,lit_score,data_freq,in_fake_any,in_fake_single_any,receptor_independent,survives_sensitivity,lit_high,data_high,canonical,specific,quadrant
+MAPK9,NA,NA,NA,NA,NA,NA,-2.8250534384066883,0.5,FALSE,FALSE,FALSE,NA,FALSE,TRUE,FALSE,TRUE,novel_hypothesis
+MAPK8,2,2022,insufficient,1.0862676056338028,2,2189,0.045817934400848304,0.5,FALSE,FALSE,FALSE,NA,FALSE,TRUE,FALSE,TRUE,novel_hypothesis
+PLK1,NA,NA,NA,NA,NA,NA,-2.8250534384066883,0.5,TRUE,TRUE,FALSE,NA,FALSE,TRUE,FALSE,FALSE,novel_hypothesis
+CDK2,1,2021,insufficient,14.022727272727272,4,3831,-1.3463112575679523,0.5,FALSE,TRUE,TRUE,NA,FALSE,TRUE,FALSE,FALSE,novel_hypothesis
+CSNK2A1,1,2023,insufficient,1.0862676056338028,0,1114,0.43474259336056087,0.5,TRUE,TRUE,TRUE,NA,FALSE,TRUE,FALSE,FALSE,novel_hypothesis
