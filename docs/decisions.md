@@ -56,4 +56,11 @@ Cada decisión se cierra con fecha **antes** del preregistro. Cambios posteriore
 
 | Fecha | Desviación | Motivo | Impacto esperado |
 |---|---|---|---|
-| | | | |
+| 2026-10-18 | Base principal Scopus en lugar de WoS | La suscripción WoS de UNAB empieza en 2006 | Cubre el giro de 2001–2003; WoS queda como sensibilidad |
+| 2026-10-18 | Tercera comunidad *molecular* (segundo nivel de Louvain) | El grupo oncológico mezclaba metástasis con descubrimiento del receptor | H1 se lee con tres comunidades; decidido con la estructura a la vista |
+| 2026-10-18 | "Literatura alta" exige ≥ 3 artículos | Un `lit_score` calculado sobre 1–2 artículos es ruido | Menos quinasas con literatura alta; cambia los cuadrantes |
+| 2026-10-18 | Poda de la red previa a ≤ 5 pasos y solver HiGHS | Sin poda no hay solución; con D = 4 ninguna canónica podía entrar | H2 sólo es evaluable con D = 5; se eligió viendo la corrida con D = 4 |
+| 2026-10-19 | Estabilidad del ficticio con el mismo protocolo que KISS1R | Comparar una corrida única con una red estable era asimétrico | Cambió la clasificación de MAPK14; decidido tras ver la corrida única |
+| 2026-10-19 | H3 reportada como no evaluable | La red estable de GSE28383 sólo tiene MAPK14 | No se relaja el criterio a posteriori |
+
+Registro retrospectivo en OSF (`docs/preregistration_osf.md`): plan original, estas desviaciones y plan confirmatorio C1–C2.
