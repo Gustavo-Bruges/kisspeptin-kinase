@@ -73,6 +73,10 @@ Antes del primer commit en un clon nuevo: `git config core.hooksPath .githooks`.
 
 Código bajo [MIT](LICENSE). Documentos, tablas, figuras y anotaciones bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Los datos de terceros mantienen su propia licencia (`docs/protocolo_datos.md`). Para citar, ver [`CITATION.cff`](CITATION.cff).
 
+## OSF
+
+Proyecto: https://osf.io/bth3r · Registro retrospectivo: pendiente (texto en `docs/preregistration_osf.md`).
+
 ## Autor
 
 Gustavo Bruges · Universidad Autónoma de Bucaramanga (UNAB) · ORCID 0000-0001-8566-1868

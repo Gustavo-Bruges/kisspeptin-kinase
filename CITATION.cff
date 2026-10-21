@@ -21,7 +21,10 @@ keywords:
 # Fill in when they exist (docs/protocolo_citacion.md):
 repository-code: "https://github.com/Gustavo-Bruges/kisspeptin-kinase"
 # doi: "10.5281/zenodo.<id>"
-# identifiers:
-#   - type: url
-#     value: "https://osf.io/<id>"
-#     description: "Preregistro en OSF"
+identifiers:
+  - type: url
+    value: "https://osf.io/bth3r"
+    description: "Proyecto OSF"
+#  - type: url
+#    value: "https://osf.io/<id del registro>"
+#    description: "Registro retrospectivo en OSF"
