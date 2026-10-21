@@ -7,8 +7,8 @@ authors:
     given-names: Gustavo
     orcid: "https://orcid.org/0000-0001-8566-1868"
     affiliation: "Universidad Autónoma de Bucaramanga (UNAB)"
-version: 0.1.0
-date-released: 2026-10-20
+version: 1.0.0
+date-released: 2026-10-21
 license: MIT
 keywords:
   - kisspeptin
