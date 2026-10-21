@@ -39,3 +39,7 @@ docs/*.xlsx
 # Secrets
 .Renviron
 .env
+
+# Manuscript drafts (kept private until submission; see docs/protocolo_datos.md)
+docs/manuscrito/
+*.docx

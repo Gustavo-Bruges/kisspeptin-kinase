@@ -14,7 +14,7 @@ is_licensed() {
   case "$path" in */.gitkeep) return 1 ;; esac      # empty placeholders keep the folder layout
   case "$path" in
     data/raw/wos/*|data/raw/scopus/*|data/raw/pubtator/*|*cancer_gene_census*|*[Cc][Oo][Ss][Mm][Ii][Cc]*) return 0 ;;
-    *.xlsx|*.xls) return 0 ;;                # headers cannot be read from sh: export a reviewed sheet to .csv instead
+    *.xlsx|*.xls|*.docx|*.doc|docs/manuscrito/*) return 0 ;;                # office files and manuscript drafts stay private (cannot be inspected from sh)
   esac
   case "$path" in
     *.csv|*.tsv|*.txt)                        # titles are metadata (allowed); abstracts/full text are not

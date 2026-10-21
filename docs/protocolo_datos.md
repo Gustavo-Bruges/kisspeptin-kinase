@@ -9,6 +9,7 @@
 | `R/` | Scripts de análisis | ✅ | Licencia MIT |
 | `docs/*.md`, `docs/*.txt`, `docs/*.html` | Preregistro, decisiones, ecuaciones, protocolos | ✅ | CC BY 4.0 |
 | `docs/*.xlsx` | Hojas de cálculo de trabajo | ❌ | Se revisan una por una antes de publicarlas |
+| `docs/manuscrito/`, `*.docx` | Borradores del manuscrito | ❌ | Privados hasta el envío; se publican como *preprint*, no en el repositorio |
 | `output/tables/`, `output/supplementary/`, `output/figures/` | Resultados derivados (conteos, puntajes, identificadores) | ✅ | CC BY 4.0; no contienen texto de terceros |
 | `data/annotation/community_labels_manual.csv`, `offtopic_exclusions.csv` | Decisiones manuales (identificador, título, motivo) | ✅ | Los títulos son metadatos bibliográficos |
 | `data/annotation/direction_annotation_template.csv`, `direction_annotator*.xlsx` | Plantillas con resúmenes de Scopus | ❌ | La licencia de Scopus no permite redistribuir resúmenes |
@@ -70,5 +71,6 @@ Cada versión etiquetada (`v1.0-…`) se archiva en Zenodo enlazado a GitHub. Ha
 - [ ] ¿Contiene títulos con resumen, texto completo o registros exportados de Scopus o WoS? → no se versiona.
 - [ ] ¿Pesa más de 50 MB? → Zenodo, no git.
 - [ ] ¿Viene de COSMIC? → nunca.
+- [ ] ¿Es un borrador del manuscrito? → queda en `docs/manuscrito/`, fuera de git.
 - [ ] ¿Tiene claves, correos o rutas personales? → al `.Renviron`.
 - [ ] ¿La fuente tiene una licencia sin verificar en la sección 2? → verificarla primero.
