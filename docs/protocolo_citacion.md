@@ -9,7 +9,7 @@
 | ORCID 0000-0001-8566-1868 | ✅ | `CITATION.cff`, `README.md` |
 | Preregistro OSF | ⏳ el borrador está en `docs/preregistration_osf.md`; falta registrarlo | `CITATION.cff` (`identifiers`), `README.md`, manuscrito |
 | Repositorio GitHub | ✅ github.com/Gustavo-Bruges/kisspeptin-kinase | `CITATION.cff` (`repository-code`) |
-| DOI Zenodo del código | ⏳ se crea con la primera *release* | `CITATION.cff` (`doi`), insignia en el `README.md` |
+| DOI Zenodo del código | ⏳ `v1.0-analisis` (2026-10-21) salió sin DOI; el DOI llega con la primera *release* después de vincular Zenodo | `CITATION.cff` (`doi`), insignia en el `README.md` |
 | DOI Zenodo de los datos derivados | ⏳ depósito aparte (ver `protocolo_datos.md`, sección 4) | `README.md`, disponibilidad de datos del manuscrito |
 
 ## 2. Orden recomendado
